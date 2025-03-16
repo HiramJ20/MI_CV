@@ -6,7 +6,7 @@ function App() {
     <div className="App container mx-auto p-4 max-w-3xl">
       {/* Encabezado */}
       <header className="text-center mb-6">
-        <h1 className="text-4xl font-bold">Hiram</h1>
+        <h1 className="text-4xl font-bold">CV_Hiram Jimenez Garcia</h1>
         <p className="text-gray-600">Comalcalco, Tabasco | <a href="https://www.linkedin.com/in/tu-perfil" target="_blank" rel="noopener noreferrer" className="text-blue-500">LinkedIn</a> | <a href="https://github.com/tu-usuario" target="_blank" rel="noopener noreferrer" className="text-blue-500">GitHub</a></p>
         <p>Correo: hiram.jimgar@outlook.com | Teléfono: 933-100-24-70</p>
       </header>
